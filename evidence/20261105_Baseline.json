@@ -1,0 +1,19 @@
+{
+  "title": "Developing a Right-Sized Information Security Policy Suite for a 30-Person SME",
+  "seq": 43,
+  "kind": "governance",
+  "mode": "SyntheticBaseline",
+  "generatedUtc": "2026-11-04T17:32:13.414912+00:00",
+  "author": "Md Shohrab Hossen Niaz",
+  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "artefacts": [
+    "gap analysis",
+    "roadmap",
+    "reporting pack outline"
+  ],
+  "scoreModel": {
+    "baselineMaturity": 42,
+    "targetMaturity": 70,
+    "unit": "0-100 design-coverage index"
+  }
+}

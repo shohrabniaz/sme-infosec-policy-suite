@@ -1,10 +1,17 @@
 {
-  "seq": 43,
   "title": "Developing a Right-Sized Information Security Policy Suite for a 30-Person SME",
-  "slug": "developing-a-right-sized-information-security-policy-su",
+  "old_slug": "developing-a-right-sized-information-security-policy-su",
+  "slug": "sme-infosec-policy-suite",
   "folder": "Developing_A_Right_Sized_Information_Security_Policy",
   "kind": "governance",
-  "body_words": 250,
+  "body_words": 325,
+  "source": "SCI700",
   "project_id": "Project 32",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
